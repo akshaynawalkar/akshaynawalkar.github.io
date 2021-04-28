@@ -6,7 +6,7 @@ The instructor during the session was Mr.Shaurya Sinha (a Data Analyst at Jio). 
   <li>HTML
   <li>CSS
     
-  <b>during these 7 days and everything was explained from very basics so that anyone with zero experience on programming can learn.
+    <b>during these 7 days and everything was explained from very basics so that anyone with zero experience on programming can learn.
     
   I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
   www.shapeai.tech
